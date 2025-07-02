@@ -8,5 +8,5 @@ const map = new maplibregl.Map({
     container: 'mijnkaart', // container id
     style: './assets/style.json',
     center: [52.3405372,4,943809], // starting position [lng, lat]
-    zoom: 5 // starting zoom
+    zoom: 13 // starting zoom
 });
