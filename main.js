@@ -1,4 +1,4 @@
-import * as maplibregl from "https://esm.sh/maplibre-gl";
+import * as maplibregl from "https://cdn.skypack.dev/maplibre-gl";
 
 const map = new maplibregl.Map({
     container: 'mijnkaart', // container id
